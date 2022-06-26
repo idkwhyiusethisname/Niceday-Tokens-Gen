@@ -1,0 +1,21 @@
+{
+    "threads": 5,
+    "anticaptcha_api_key": "",
+    "capmonster_api_key": "",
+    "2captcha_API_key": "",
+    "capmonster_use_proxies": false,
+    "use_2captcha": false,
+    "use_capmonster": true,
+    "password": "NicedayzONTOp!@#",
+    "Date_of_birth": "1990-05-02",
+    "Display_proxy_errors": true,
+    "Join_Server_On_Creation": true,
+    "Server_Invite": "",
+    "user:pass@ip:port format": true,
+    "hotmailbox_API": "",
+    "use_hotmailbox": true,
+    "generate_password": true,
+    "use_onlinesim": true,
+    "onlinesimApi": "",
+    "contryCode": "84"
+}
